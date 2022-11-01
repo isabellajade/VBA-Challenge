@@ -10,7 +10,7 @@ and outputs:
 - The total stock volume of the stock 
 
 Additionally I used VBA script to
--Highlight positive and negative change using conditional formatting
+- Highlight positive and negative change using conditional formatting
 
 Below are screenshots of the years 2018-2020
 
