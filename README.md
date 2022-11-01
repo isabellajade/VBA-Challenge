@@ -15,8 +15,8 @@ Additionally I used VBA script to
 Below are screenshots of the years 2018-2020
 
 ### 2018 Stock Data
-![2018 Stock Data](./2018.png)
+![2018 Stock Data](./2018.PNG)
 ### 2019 Stock Data
-![2019 Stock Data](./2019.png)
+![2019 Stock Data](./2019.PNG)
 ### 2020 Stock Data
-![2020 Stock Data](./2020.png)
+![2020 Stock Data](./2020.PNG)
